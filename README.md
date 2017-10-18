@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+## Day 1: October 17, 2017
+#### Rabbit Modal 
+
+**Today's Progress**: 
+Finally took the plunge and got Adobe Illustrator! Watched some how tos and failed a little at making bunny ears. 
+
+**Thoughts:** 
+Pretty stoked right now. This needed to happen. Although I'm a little sad that free options didn't pan out. 
+
+**Goals:**
+Hat. Hat needs to happen tomorrow. Without fail. 
+
+**Link to work:**
+- [Twitter Recap](https://twitter.com/nellarro/status/920505367037140993)
+
+
 ## Day 0: October 16, 2017
 #### Rabbit Modal 
 
