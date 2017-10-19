@@ -1,5 +1,22 @@
 # 100 Days Of Code - Log
 
+## Day 2: October 18, 2017
+#### Rabbit Modal 
+
+**Today's Progress**: 
+Gave up on Inkscape. Officially traced a rabbit in the hat from the screenshot of the gif!
+
+**Thoughts:** 
+This was pretty darn cool! I'm not typically a design person so this was awesome. I really want to sort out how to make some of these images simpler so that I can isolate and re-type the svg code that gets rendered.
+
+**Goals:**
+Try to find a simpler rendition of a rabbit in a hat to see if I can isolate the svg code by new classes like "left-ear" and "right-ear" instead of what's given. 
+
+**Link to work:**
+- [Twitter Recap](https://twitter.com/nellarro/status/920866519449526277)
+- ![Link to Work](images/rabbit.svg "first adobe illustrated svg")
+
+
 ## Day 1: October 17, 2017
 #### Rabbit Modal 
 
