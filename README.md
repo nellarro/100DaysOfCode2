@@ -31,4 +31,4 @@ Create the hat in Inkscape tomorrow.
 **Link to work:**
 - [Links to Work](https://codepen.io/nellarro/full/XeygXj/)
 - [Twitter Recap](https://twitter.com/nellarro/status/920079675598221312)
-- ![2nd Ever Picked Pen!!!!!](./images/picked-pen.png "Picked Pen! Oct-16-2017")
+- ![2nd Ever Picked Pen!!!!!](images/picked-pen.png "Picked Pen! Oct-16-2017")
