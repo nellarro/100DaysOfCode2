@@ -13,8 +13,9 @@ This was pretty darn cool! I'm not typically a design person so this was awesome
 Try to find a simpler rendition of a rabbit in a hat to see if I can isolate the svg code by new classes like "left-ear" and "right-ear" instead of what's given. 
 
 **Link to work:**
+- [Link to Work](images/rabbit.svg)
 - [Twitter Recap](https://twitter.com/nellarro/status/920866519449526277)
-- ![Link to Work](images/rabbit.svg "first adobe illustrated svg")
+- ![Image of the Day](images/rabbit-copy.png "first adobe illustrated svg")
 
 
 ## Day 1: October 17, 2017
