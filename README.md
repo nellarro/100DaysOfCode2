@@ -1,5 +1,23 @@
 # 100 Days Of Code - Log
 
+## Day 3 & 4: October 19 - 20, 2017
+### Rabbit Modal
+
+**Today's Progress**: 
+Thursday: created a simplified version of the rabbit.
+
+Friday: 
+
+**Thoughts:** 
+
+
+**Goals:**
+Work on the remainder of my talk for DevFest this weekend.
+
+**Link to work:**
+- [Link to Work](images/bunny.svg)
+- [Twitter Recap]()
+
 ## Day 2: October 18, 2017
 #### Rabbit Modal 
 
