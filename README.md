@@ -1,18 +1,18 @@
 # 100 Days Of Code - Log
 
 ## Day 3 & 4: October 19 - 20, 2017
-### Rabbit Modal
+### Rabbit Modal and Elm
 
 **Today's Progress**: 
 Thursday: created a simplified version of the rabbit.
 
-Friday: 
+Friday: learned a little bit about Elm :)
 
 **Thoughts:** 
-
+I'm not so sure how I feel about Elm quite yet. Especially coming from the React world where JSX is involved, it's a little peculiar to write HTML with array brackets instead of </> but I think it's coming along. Going through the docs was extremely helpful and I could compare it to JavaScript in many ways which is phenomenal. I wonder if it is going to take off as a language. 
 
 **Goals:**
-Work on the remainder of my talk for DevFest this weekend.
+Take weekend breaks. Still code in some way or other using Enki but keep this a weekday thing :).
 
 **Link to work:**
 - [Link to Work](images/bunny.svg)
